@@ -1,0 +1,90 @@
+**Clearing OT:
+
+1)Must-do
+https://practice.geeksforgeeks.org/batch/must-do-1
+
+2)GFG Practice
+
+https://practice.geeksforgeeks.org/explore/?problemStatus=unsolved&page=1&sortBy=submissions
+
+3)Apti
+
+https://prepinsta.com/
+
+4)Codeforces
+
+https://codeforces.com/problemset
+
+5)Understanding DP Questions in an easy way
+
+https://blog.usejournal.com/top-50-dynamic-programming-practice-problems-4208fed71aa3
+
+
+
+**Clearing Interview:
+There are many sources
+
+*OOPs(do either in java or c++)
+
+1)in java
+
+This is in compact way
+https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/
+
+OR 
+
+little Deep.
+https://www.javatpoint.com/java-oops-concepts
+
+
+2)in c++
+
+https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/
+
+
+*DBMS
+
+1)Youtube sanchit jain(Many vidoes but its good, generally companies do ask some standard questions related to key, ER diagram, ACID properties, Indexing,Normal forms, etc. 1st try looking at these concepts if time is less.)
+
+2)Last minute notes
+
+https://www.geeksforgeeks.org/last-minute-notes-dbms/
+
+
+*Operating System
+
+
+1)It covers all concepts
+https://www.geeksforgeeks.org/operating-systems/
+
+2)last minute
+
+https://www.geeksforgeeks.org/last-minute-notes-operating-systems/
+
+Note: 1st go for last minute notes then if time permits 1st link
+
+
+*CN
+
+To be honset I didnt do it much. But you can try below or any other resources
+
+
+1)https://www.geeksforgeeks.org/computer-network-tutorials/
+
+2)https://www.geeksforgeeks.org/last-minute-notes-computer-network/
+
+*System Design 
+
+Gaurav Sen youtube.
+
+
+
+NOTE: Try to solve quiz for above concepts from GFG. It helps to have a better understanding.
+
+
+
+*Puzzles
+
+https://www.geeksforgeeks.org/puzzles/
+
+
