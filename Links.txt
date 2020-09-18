@@ -81,7 +81,9 @@ Gaurav Sen youtube.
 
 NOTE: Try to solve quiz for above concepts from GFG. It helps to have a better understanding.
 
+*SQL Practice
 
+https://practice.geeksforgeeks.org/tag-page.php?tag=SQL&isCmp=0&level=-3&problemType=2&sort=desc&sort_by=views
 
 *Puzzles
 
