@@ -60,7 +60,7 @@ and keep learning from the interviews you gave.
 
 Just to spirit up you guys, I would like to share my example. I got rejected in :
 Oracle Server Tech(was kept on hold, later got an offer)
-Qualcomm, Mastercard, Deutsche Bank, Analog Devices(Sw profile),Avalara, ServiceNow.
+and six more(cant say company name because of some college rule, to not disclose comapany which did visit)
 Then after 7 rejections I was able make for Oracle Financial service Hr round.That HR might have contacted previous Oracle to which I was kept on hold, and got an offer
 from there.
 
